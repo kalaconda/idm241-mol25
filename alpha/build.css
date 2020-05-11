@@ -1,0 +1,14 @@
+.card {
+        width: 600px;
+        height: 500px;
+        display: block;
+        margin-left: 375px;
+        background: url("images/githublogobuild.jpg") no-repeat;
+    }
+    .card:hover {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        background: url("gitanim.gif") no-repeat;
+    }
